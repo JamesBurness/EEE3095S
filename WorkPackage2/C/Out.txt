@@ -1,0 +1,90 @@
+mkdir -p bin obj
+arm-linux-gnueabihf-g++ -ITools -lm -lrt -D Thread_Count=2 -c src/CHeterodyning_threaded.c -o obj/CHeterodyning_threaded.o
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+rm -rf bin/* obj/*
+mkdir -p bin obj
+arm-linux-gnueabihf-g++ -ITools -lm -lrt -D Thread_Count=4 -c src/CHeterodyning_threaded.c -o obj/CHeterodyning_threaded.o
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+rm -rf bin/* obj/*
+mkdir -p bin obj
+arm-linux-gnueabihf-g++ -ITools -lm -lrt -D Thread_Count=8 -c src/CHeterodyning_threaded.c -o obj/CHeterodyning_threaded.o
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+rm -rf bin/* obj/*
+mkdir -p bin obj
+arm-linux-gnueabihf-g++ -ITools -lm -lrt -D Thread_Count=16 -c src/CHeterodyning_threaded.c -o obj/CHeterodyning_threaded.o
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+rm -rf bin/* obj/*
+mkdir -p bin obj
+arm-linux-gnueabihf-g++ -ITools -lm -lrt -D Thread_Count=32 -c src/CHeterodyning_threaded.c -o obj/CHeterodyning_threaded.o
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+bin/CHeterodyning_threaded
+rm -rf bin/* obj/*
